@@ -1,0 +1,145 @@
+.left-column {
+    border: gainsboro solid 1px;
+    width: 255px;
+    height: 599px;
+    font-size: 20px;
+    font-family: helvetica, sans-serif;
+    font-weight: bolder;
+    line-height: 45px;
+    text-align: left;
+}
+.bottom-column {
+    
+}
+
+.top {
+    border: gainsboro solid 1px;
+    width: 598px;
+    height: 53px;
+    position: absolute;
+    top: 8px;
+    left: 264px;
+}
+
+.name1 {
+    font-size: 16px;
+    font-family: helvetica, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    top: 2px;
+    left: 15px;
+    width: 568px;
+    height: 19px;
+}
+
+.tweet-amount {
+    color: darkslategray;
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    top: 9px;
+    left: 47px;
+}
+
+.middle-column {
+    border: gainsboro solid 1px;
+    width: 598px;
+    height: 500px;
+    position: absolute;
+    left: 264px;
+    top: 62px;
+}
+
+.pfp {
+    border: white solid 4px;
+    border-radius: 500px;
+    width: 134px;
+    position: absolute;
+    left: 20px;
+    top: 130px;
+}
+
+.background {
+    width: 598px;
+    height: 200px;
+}
+
+.name2 {
+    font-size: 16px;
+    font-family: helvetica, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    top: 65px;
+    left: 20px;
+    width: 568px;
+    height: 19px;
+}
+
+.handle {
+    color: darkslategray;
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    top: 68px;
+    left: 25px;
+}
+
+.link {
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    top: 130px;
+    left: 52px;
+}
+
+a:link {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+.join-date {
+    color: darkslategray;
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    top: 113px;
+    left: 210px;
+}
+
+ul {
+    list-style: none;
+}
+
+.following {
+    color: darkslategray;
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    top: 100px;
+    left: 31px;
+}
+
+.followers {
+    color: darkslategray;
+    font-size: 15px;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 32px;
+    left: 149px;
+}
+
+bo-ld {
+    font-family: helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
